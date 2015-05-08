@@ -1,0 +1,92 @@
+/* BRIGHT MATTER CSS
+*/
+@font-face {
+	font-family: 'basictitlefont';
+	src: url('../fonts/basictitlefont.eot');
+	src: local('basictitlefont'), url('../fonts/basictitlefont.woff') format('woff'), url('../fonts/basictitlefont.ttf') format('truetype');
+}
+
+
+header{
+	font-family: 'basictitlefont';
+	text-align: center;
+}
+body{
+	font-family: Helvetica, sans-serif;
+	background-color: black;
+	width:100%;
+}
+ul{
+	margin:0;
+	margin-top:5%;
+	list-style-type: none;
+}
+li{
+	display: inline;
+	padding-right:7%;
+
+}
+li a:link{
+	text-decoration: none;
+	font-size:3em;
+	color: #585858;	
+}
+li a:visited{
+	color: #585858;
+}
+li a:hover{
+	color:pink;
+}
+
+nav{
+	text-align:center;
+}
+#theLinks, #fallingDown{
+	display:block;
+}
+#movie{
+	width:500px;
+	height:300px;
+	margin: 0 auto;
+}
+#pic{
+	max-width:100%;
+	height:auto;
+	float:left;
+	display:inline;
+	margin-top:1%;
+}
+@media (max-width:848px){
+	#pic{
+		display:none;
+	}
+	#movie{
+		margin: 0 0 0 15%;
+	}
+	#page{
+		padding-left:0px;
+	}
+}
+#logo{
+	font-size:6em;
+	padding-top:5%;
+	color:white;
+}
+#container{
+	margin: 20px auto;
+	width:95%;
+	position:relative;
+}
+#page{
+	margin: 4% auto 10% auto;
+	color:white;
+	display:inline-block;
+	padding-left:4%;
+}
+#page ul{
+	display:inline-block;
+	float:right;
+}
+#page li{
+	padding: 0;
+}
