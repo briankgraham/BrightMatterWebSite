@@ -1,3 +1,4 @@
+// Put Globals In A NameSpace
 function theObjs(name, link, id){
 		this.link = link;
 		this.name = name;

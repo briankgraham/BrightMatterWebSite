@@ -6,7 +6,10 @@
 	src: local('basictitlefont'), url('../fonts/basictitlefont.woff') format('woff'), url('../fonts/basictitlefont.ttf') format('truetype');
 }
 
-
+#eye{
+	text-align: center;
+	width:100%;
+}
 header{
 	font-family: 'basictitlefont';
 	text-align: center;
@@ -48,6 +51,7 @@ nav{
 	width:500px;
 	height:300px;
 	margin: 0 auto;
+	padding-left:22%;
 }
 #pic{
 	max-width:100%;
@@ -62,6 +66,7 @@ nav{
 	}
 	#movie{
 		margin: 0 0 0 15%;
+		padding-left:0px;
 	}
 	#page{
 		padding-left:0px;
@@ -79,14 +84,14 @@ nav{
 }
 #page{
 	margin: 4% auto 10% auto;
+	width:50%;
 	color:white;
 	display:inline-block;
-	padding-left:4%;
+	
+	white-space:nowrap;
 }
-#page ul{
-	display:inline-block;
-	float:right;
-}
+
 #page li{
 	padding: 0;
+	text-align: center;
 }

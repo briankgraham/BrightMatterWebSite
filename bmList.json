@@ -1,0 +1,68 @@
+{
+	"theList": [
+		{
+			"name": "Facebook",
+			"link":"https://www.facebook.com/brightmatter",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "Twitter",
+			"link":"https://www.twitter.com/bright_matter",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "Instagram",
+			"link":"https://instagram.com/brightmatter",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "Bandcamp",
+			"link":"https://brightmatter.bandcamp.com",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "iTunes",
+			"link":"https://itunes.apple.com/us/artist/bright-matter/id367964352",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "YouTube",
+			"link":"https://www.youtube.com/mrbrightmatter",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "No Home For Us Here",
+			"link":"http://bandcamp.com/EmbeddedPlayer/album=2603275833/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "Falling Down EP",
+			"link":"https://bandcamp.com/EmbeddedPlayer/album=2454890425/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+			"id"  : "fallingDown"
+		},
+		{
+			"name": "Never Know",
+			"link":"https://www.youtube.com/watch?v=a3GBM6DPi1o",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "Run",
+			"link":"https://www.youtube.com/embed/TD1OaRmCO20",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "Alive @ Detroit Bar",
+			"link":"https://www.youtube.com/watch?v=Be_q0ooJxRs",
+			"id"  : "theLinks"
+		},
+		{
+			"name": "Can't Shake This Feelin'",
+			"link":"https://www.youtube.com/watch?v=1CUo79tw36Q",
+			"id"  : "theLinks"
+		}
+	]
+}
+
+
+
+
